@@ -13,8 +13,8 @@ A sleek, responsive static site that brings together four interactive mini‑app
 - **Plain JavaScript** – no frameworks or build step required.
 
 ## Live Demo
-- **GitHub Pages:** `https://<your‑username>.github.io/skillcraft-unified-hub/`
-- **Netlify:** `https://<random>.netlify.app/`
+- **GitHub Pages:** `https://github.com/HimanshuChoudhary-10/skillcraft-technology-by-himanshu`
+- **Netlify:** `https://skillcraft-technology-project.netlify.app/`
 
 
 ## Getting Started
